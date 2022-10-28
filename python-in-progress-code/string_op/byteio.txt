@@ -1,0 +1,5 @@
+StringIO is a type of menIO
+it works just like a file
+it can write data to memory
+and it can also read data from it
+
