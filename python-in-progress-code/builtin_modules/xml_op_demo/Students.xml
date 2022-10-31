@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<students>
+    <student id="stu1">
+        <name>Steven lee</name>
+        <age>18</age>
+        <gender>male</gender>
+    </student>
+    <student id="stu2">
+        <name>LiLi wong</name>
+        <age>23</age>
+        <gender>female</gender>
+    </student>
+</students>

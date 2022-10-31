@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<collection>
+   <movie>
+    <movie_id>004</movie_id>
+    <title director="Roland Emmerich">The Day After Tomorrow</title>
+    <year>2004</year>
+    <desc>
+      romantic love story,very sexy scene!!!
+    </desc>
+    <actors>
+      <actor>will smiths</actor>
+      <actor>jet li</actor>
+      <actor>britney lee</actor>
+    </actors>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <link>http://www.imdb.com/title/tt0319262/?ref_=nv_sr_1</link>
+  </movie>
+  <movie>
+    <movie_id>001</movie_id>
+    <title director="Brett Ratner">Rush Hour 1</title>
+    <year>1998</year>
+    <actors>
+      <actor>julia robots</actor>
+      <actor>jack chang</actor>
+      <actor>kitty lee</actor>
+    </actors>
+    <genre>Action, Comedy, Thriller</genre>
+    <link>http://www.imdb.com/title/tt0120812/?ref_=nv_sr_1</link>
+  </movie>
+
+  <movie>
+    <movie_id>005</movie_id>
+    <title director="ohn Hughes">Ferris Bueller's Day Off</title>
+    <year>1986</year>
+    <actors>
+      <actor>cindy dom</actor>
+      <actor>tracy liu</actor>
+      <actor>brendy peare</actor>
+    </actors>
+    <genre>Comedy</genre>
+    <link>http://www.imdb.com/title/tt0091042/?ref_=nv_sr_1</link>
+  </movie>
+
+</collection>

@@ -1,0 +1,22 @@
+<data>	#&#27492;&#22788;data&#23601;&#26159;&#19968;&#20010;&#26681;&#33410;&#28857;&#65292;&#25152;&#26377;&#30340;country&#37117;&#26159;data&#30340;&#23376;&#33410;&#28857;&#65292;country&#19979;&#30340;&#26631;&#31614;&#21448;&#26159;country&#30340;&#23376;&#33410;&#28857;
+    <country name="Liechtenstein">	#&#27492;&#22788;country&#23601;&#26159;&#26631;&#31614;&#21517;&#65288;tag&#65289;&#65292;name&#26159;&#23646;&#24615;&#21517;&#65292;Liechtenstein&#26159;&#20540;
+        <rank updated="yes">2</rank>
+        <year>2008</year>
+        <gdppc>141100</gdppc>
+        <neighbor direction="E" name="Austria" />
+        <neighbor direction="W" name="Switzerland" />
+    </country>
+    <country name="Singapore">
+        <rank updated="yes">5</rank>
+        <year>2011</year>
+        <gdppc>59900</gdppc>
+        <neighbor direction="N" name="Malaysia" />
+    </country>
+    <country name="Panama">
+        <rank updated="yes">69</rank>
+        <year>2011</year>
+        <gdppc>13600</gdppc>
+        <neighbor direction="W" name="Costa Rica" />
+        <neighbor direction="E" name="Colombia" />
+    </country>
+</data>
