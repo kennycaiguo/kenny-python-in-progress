@@ -1,0 +1,4 @@
+python进程同步和线程同步的处理方式是类似的。只不过进程是并行执行的，而python中的线程是串行执行的。都是可以使用锁，信号量，event，condition等等来
+操作。都是类似的方法。需要注意的是进程不能开太多因为它很消耗资源。最好控制在50个以下。必须注意的是：进程共享数据需要使用multiprossing创建的数据结构
+如multiprossing.Queue,multiprossing.Pipe(是一个有两个端的元组），multiprossing.Manager.DictProxy,multiprossing.Manager.list才可以
+线程同步使用的数据结构：queue.Queue,dict,list等等只能在线程同步中使用，不能在进程同步中使用
